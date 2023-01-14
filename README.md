@@ -3,6 +3,7 @@
 - Boilerplate used: [react-native-typescript-boilerplate](https://github.com/WrathChaos/react-native-typescript-boilerplate)
 
 # Demo
+![Simulator Screen Recording - iPhone 13 - 2023-01-13 at 21 40 57](https://user-images.githubusercontent.com/17572853/212447298-f2e2c130-50e1-4a78-8af8-f827240f2d21.gif)
 
 ## 🚀 Getting Started
 
